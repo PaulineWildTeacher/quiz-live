@@ -1,0 +1,14 @@
+li {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+    list-style: none;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    color: black;
+    border-radius: 10px;
+}
+
+li.selected {
+    background-color: #a0e6ff;
+}
